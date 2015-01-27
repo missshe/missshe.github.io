@@ -1,0 +1,188 @@
+/* 
+* @Author: anchen
+* @Date:   2014-11-22 19:32:50
+* @Last Modified by:   anchen
+* @Last Modified time: 2014-11-24 18:19:36
+*/
+body
+{
+    border: 3px solid red;
+    margin: 0 auto;
+    width: 1070px;
+    height: 1688px;
+}
+
+.top
+{
+    height:75px;
+    width: 860px;
+    background: url("http://pic2.bbzhi.com/meishibizhi/tiandian/tiandian_95235_3.jpg");
+    border:5px #FFFF99 solid;
+    font: 60px impact;
+    padding: 20px 100px;
+}
+.subtop
+{
+    height:20px;
+    width:215px;
+    font: 20px Arial;
+    float: right;
+    margin-top:5px;
+}
+.seperate
+{
+    background-color: #FFFF99;
+    height:30px;
+    width:1070px;
+}
+.essay_content
+{
+    background-color: #F0F0F0;
+    width:661px;
+    height: 305px;
+    float:left;
+}
+.right
+{
+    float: right;
+    height:640px;
+    width: 396px;
+}
+.letter
+{
+    margin-top:-10px;
+    font: 20px Arial;
+    border-color: #FFCCCC;
+} 
+.photo1
+{
+    height:320px;
+    width:320px;
+    margin-top: 15px;
+    margin-right:12px;
+}
+.photo2
+{
+    height:120px;
+    width:120px;
+
+}
+.line1_r
+{
+    width: 244px;
+    height: 40px;
+    background-color: #78AA25;
+    float: right;
+    margin-top: 10px;
+}
+.line1_l
+{
+    width: 820px;
+    height:40px;
+    float: left;
+    background-color: #A9C13F;
+    margin-top: 10px;
+}
+.line2_r
+{
+    width: 665px;
+    height: 40px;
+    background-color: #B9B9ED;
+    float: right;
+    margin-top: 5px;
+}
+.line2_l
+{
+    width: 244px;
+    height: 40px;
+    background-color: #58799B;
+    float: left;
+    margin-top: 5px;
+}
+.line2_m
+{
+    width: 151px;
+    height: 40px;
+    background-color: #8395AA;
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.photo2
+{
+    margin-top:5px;
+    float:right;
+    margin-bottom: 0px;
+}
+.photo3
+{
+    margin-top: 5px;
+    margin-right:0px;
+    width:445px;
+    padding: 10px;
+    background: #CCCCCC;
+
+}
+.article
+{
+    background-color: #F0F0F0;
+    height:570px;
+    width:570px;
+    float:right;
+    margin-top:-600px;
+    margin-right: 18px;
+    border-bottom-right-radius: 45px;
+}
+.color1
+{
+    background-color: #99CC00;
+    border:5px black solid;
+    font-family: cursive;
+    font-size:40px;
+
+}
+.color2
+{
+    background-color:#9933CC;
+    border: 5px black solid;
+    font-family:  TimesNR;
+    font-size:25px;
+}
+.color3
+{
+    background-color: #FF0033;
+    border: 5px black solid;
+    font-family:impact;
+    font-size:50px;
+}
+.color4
+{
+    background-color: yellow;
+    border: 5px black solid;
+    font-family:impact;
+    font-size:30px;
+}
+div p
+{
+    text-decoration: underline;
+    font-family: verdana;
+    font-size:20px;
+    font-color: blue;
+}
+td
+{
+    text-align: center;
+}
+ul li
+{
+    margin-top: 50px;
+}
+a:link
+{
+    text-decoration: none;
+    color: black;
+}
+a:visited
+{
+    color:black;
+}
